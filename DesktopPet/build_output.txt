@@ -1,0 +1,11 @@
+﻿  姝ｅ湪纭畾瑕佽繕鍘熺殑椤圭洰鈥?
+  宸茶繕鍘?C:\Users\33587\Desktop\Partner\DesktopPet\DesktopPet.csproj (鐢ㄦ椂 209 姣)銆?
+C:\Users\33587\Desktop\Partner\DesktopPet\SettingsWindow.xaml(234,36): error MC3072: XML 鍛藉悕绌洪棿鈥渉ttp://schemas.microsoft.com/winfx/2006/xaml/presentation鈥濅腑涓嶅瓨鍦ㄥ睘鎬р€淟etterSpacing鈥濄€?琛?234 浣嶇疆 36. [C:\Users\33587\Desktop\Partner\DesktopPet\DesktopPet.csproj]
+
+鐢熸垚澶辫触銆?
+
+C:\Users\33587\Desktop\Partner\DesktopPet\SettingsWindow.xaml(234,36): error MC3072: XML 鍛藉悕绌洪棿鈥渉ttp://schemas.microsoft.com/winfx/2006/xaml/presentation鈥濅腑涓嶅瓨鍦ㄥ睘鎬р€淟etterSpacing鈥濄€?琛?234 浣嶇疆 36. [C:\Users\33587\Desktop\Partner\DesktopPet\DesktopPet.csproj]
+    0 涓鍛?
+    1 涓敊璇?
+
+宸茬敤鏃堕棿 00:00:00.99

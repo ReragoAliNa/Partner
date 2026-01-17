@@ -1,0 +1,3 @@
+C:\Users\33587\Desktop\Partner\DesktopPet\bin\Release\net8.0-windows\win-x64\publish\DesktopPet.pdb
+C:\Users\33587\Desktop\Partner\DesktopPet\bin\Release\net8.0-windows\win-x64\publish\Assets\pet.png
+C:\Users\33587\Desktop\Partner\DesktopPet\bin\Release\net8.0-windows\win-x64\publish\DesktopPet.exe

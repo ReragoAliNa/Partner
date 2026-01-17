@@ -1,0 +1,3 @@
+C:\Users\33587\Desktop\DesktopPet_Installer\DesktopPet.pdb
+C:\Users\33587\Desktop\DesktopPet_Installer\Assets\pet.png
+C:\Users\33587\Desktop\DesktopPet_Installer\DesktopPet.exe

@@ -1,0 +1,8 @@
+C:\Users\33587\Desktop\Partner\DesktopPet\obj\Release\net8.0-windows\DesktopPet.csproj.AssemblyReference.cache
+C:\Users\33587\Desktop\Partner\DesktopPet\obj\Release\net8.0-windows\GhostOverlayWindow.baml
+C:\Users\33587\Desktop\Partner\DesktopPet\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\33587\Desktop\Partner\DesktopPet\obj\Release\net8.0-windows\GhostOverlayWindow.g.cs
+C:\Users\33587\Desktop\Partner\DesktopPet\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\33587\Desktop\Partner\DesktopPet\obj\Release\net8.0-windows\App.g.cs
+C:\Users\33587\Desktop\Partner\DesktopPet\obj\Release\net8.0-windows\DesktopPet_MarkupCompile.cache
+C:\Users\33587\Desktop\Partner\DesktopPet\obj\Release\net8.0-windows\DesktopPet_v1_Final_MarkupCompile.cache

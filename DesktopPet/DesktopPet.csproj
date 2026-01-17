@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    
+    <!-- App Metadata -->
+    <AssemblyName>DesktopPet</AssemblyName>
+    <Title>Desktop Pet</Title>
+    <Description>A physics-based desktop companion</Description>
+    <Version>1.0.0</Version>
+    <Company>Desktop Pet Studio</Company>
+    <Product>Desktop Pet (Neumorphic)</Product>
+
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hardcodet.NotifyIcon.Wpf" Version="1.1.0" />
+    <None Update="Assets\**">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
