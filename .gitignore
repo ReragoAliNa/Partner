@@ -21,3 +21,5 @@ msbuild.errors
 *.msi
 *.nupkg
 .gemini/
+.agent/
+.shared/
